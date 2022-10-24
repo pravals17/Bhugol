@@ -1,2 +1,2 @@
-
+Stanford NER is used to extract place names in text that belong to the USA.
 The Stanford NER used in this study can be downloaded and installed in a local system from the original author's website: https://nlp.stanford.edu/software/CRF-NER.shtml
