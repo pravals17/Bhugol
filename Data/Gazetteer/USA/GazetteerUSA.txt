@@ -1,0 +1,2 @@
+The gazetteer for the USA with all the place names can be downloaded from the Geonames server: https://www.geonames.org/countries/US/united-states.html
+The file is too large to be uploaded to the GitHub.
