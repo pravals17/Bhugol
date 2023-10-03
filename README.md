@@ -1,5 +1,5 @@
 # BhugolGeocoder
-
+A novel data-driven spatially-aware algorithm, Bhugol, that leverages the spatial patterns and the spatial context of place names to automatically geocode the non-gazetteer place names. 
 ######################### Data #########################################
 
 The following folders contain the datasets used in this study for both the USA and India.
