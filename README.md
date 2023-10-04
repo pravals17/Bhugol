@@ -12,9 +12,9 @@ Frequent Sufixes: List of place names from the USA and India along with their su
 
 GroundTruth: This contains the four ground truth datasets: NGPA-USA (csv files for ville, town, hill, wood suffixes), NGP-USA (csv file names NPLatLongUSA), NGPA-India (csv files for pur, adi, gaon, patti, palle), and NGP-India (csv file named NPLatLongIndia).
 
-ShapeFiles: This contains the shape files required for statistical analysis of patterns in place names. (Using the gazetteers, ArcGIS was used to create shape files)
+ShapeFiles: This contains the shape files required for statistical analysis of patterns in place names. The shape files were created using the gazetteers for the respective countries and ArcGIS.
 
-SuffixesHDBSCANCLUSTERS: It includes the clusters and their centroids obtained for frequent suffixes (ArcGIS Pro was used to create clusters of place names with frequent suffixes using HDBSCAN algorithm for both the USA and India).
+SuffixesHDBSCANCLUSTERS: It includes the clusters and their centroids obtained for frequent suffixes. ArcGIS Pro was used to create clusters of place names with frequent suffixes using HDBSCAN algorithm for both the USA and India.
 
 
 ######################### Named Entity Recognition (NER) System ##############
@@ -24,7 +24,7 @@ NER system identifies locations (i.e., place names) mentioned in text and is use
 Stanford NER: NER used to extract cooccurring place names from text for non-gazetteer places for the USA.
 SANS: NER used to extract cooccurring place names from text for non-gazetteer places for India. In order to run the code for NER, please download the gazetteer for India as described in the 'NOTE' section (below) of this readme text.
 
-Both the NER systems are stored in 'NERFiles' folder.
+Both the NER systems are stored in 'NERFiles' folder. Note that SANS was developed in our previous research (Sharma, P., Samal, A., Soh, LK. et al. A spatially-aware algorithm for location extraction from structured documents. Geoinformatica 27, 645–679 (2023). https://doi.org/10.1007/s10707-022-00482-1). Please refer to the paper for details about the NER system.
 
 
 ####################### Geocoders used for comparison ##################
