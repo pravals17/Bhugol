@@ -22,6 +22,7 @@ SuffixesHDBSCANCLUSTERS: It includes the clusters and their centroids obtained f
 NER system identifies locations (i.e., place names) mentioned in text and is used in this study to extract cooccurring place names for a given non-gazetteer place name. The following NER systems are used in this study.
 
 Stanford NER: NER used to extract cooccurring place names from text for non-gazetteer places for the USA.
+
 SANS: NER used to extract cooccurring place names from text for non-gazetteer places for India. In order to run the code for NER, please download the gazetteer for India as described in the 'NOTE' section (below) of this readme text.
 
 Both the NER systems are stored in 'NERFiles' folder. Note that SANS was developed in our previous research (Sharma, P., Samal, A., Soh, LK. et al. A spatially-aware algorithm for location extraction from structured documents. Geoinformatica 27, 645–679 (2023). https://doi.org/10.1007/s10707-022-00482-1). Please refer to the paper for details about the NER system.
