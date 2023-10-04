@@ -39,8 +39,8 @@ The code can be run after installing the required libraries and providing the co
 ###################### NOTE ###############################################
 The gazetteers used in this research for the USA and India are not included in this repository due to their large size for GitHub. However, you can easily download them from the following sources:
 
-For the USA, you can obtain the gazetteer data from the US Geological Survey (https://www.usgs.gov/core-science-systems/ngp/board-on-geographic-names).
+For the USA, you can download the gazetteer from the US Geological Survey (https://www.usgs.gov/core-science-systems/ngp/board-on-geographic-names).
 
-For India, you can access gazetteer and census data from GeoNames (http://www.geonames.org/about.html) and the official census website (https://censusindia.gov.in/census.website/), respectively.
+For India, you can download gazetteer and census data from GeoNames (http://www.geonames.org/about.html) and the official census website (https://censusindia.gov.in/census.website/), respectively.
 
 Please note that the gazetteers from the US Geological Survey and Geonames are regularly updated and may offer more comprehensive information than what was utilized during the development of this algorithm.
