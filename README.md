@@ -29,7 +29,7 @@ Both the NER systems are stored in 'NERFiles' folder. Note that SANS was develop
 
 ####################### Geocoders used for comparison ##################
 
-The codes and implementation details of the current state-of-the-art geocoders are available from the authors of EUPEG in https://github.com/geoai-lab/EUPEG (Edinburg, TopoCluster, Clavin, and CamCoder) and the code and details for Mordecai geocoder is in https://github.com/openeventdata/mordecai.
+The codes and implementation details of the current state-of-the-art geocoders are available from the authors of EUPEG at https://github.com/geoai-lab/EUPEG (Edinburg, TopoCluster, Clavin, and CamCoder) and the code and details for Mordecai geocoder is availabe at https://github.com/openeventdata/mordecai.
 
 ###################### Bhugol #########################################
 
