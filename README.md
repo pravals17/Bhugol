@@ -37,5 +37,10 @@ The codes for the statistical analysis of patterns in place names and the differ
 The code can be run after installing the required libraries and providing the correct path to the datasets. The code is commented for better readability.
 
 ###################### NOTE ###############################################
+The gazetteers used in this research for the USA and India are not included in this repository due to their large size for GitHub. However, you can easily download them from the following sources:
 
-Due to large size the gazetteers for the USA and India used in this research are not included in the upload. However, it is very easy to download the gazetteers from US Geological Survey (https://www.usgs.gov/core-science-systems/ngp/board-on-geographic-names) for the USA and GeoNames (http://www.geonames.org/about.html) for India as described in the paper and use to run the code.
+For the USA, you can obtain the gazetteer data from the US Geological Survey (https://www.usgs.gov/core-science-systems/ngp/board-on-geographic-names).
+
+For India, you can access gazetteer and census data from GeoNames (http://www.geonames.org/about.html) and the official census website (https://censusindia.gov.in/census.website/), respectively.
+
+Please note that the gazetteers from the US Geological Survey and Geonames are regularly updated and may offer more comprehensive information than what was utilized during the development of this algorithm.
